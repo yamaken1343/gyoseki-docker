@@ -1,5 +1,5 @@
 # 研究室向け業績アーカイブ with docker-compose
-研究室向け業績アーカイブ を docker-compose を用いて nginx + gnicorn + django の構成で起動  
+研究室向け業績アーカイブ を docker-compose を用いて nginx + gunicorn + django の構成で起動  
 https://github.com/yamaken1343/gyoseki-archive 
 
 ## Requirements
